@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: suren
+Build-Jdk: 13.0.2
+Implementation-Title: InventoryManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/getProductOrder
+Created-By: Maven Integration for Eclipse
+
